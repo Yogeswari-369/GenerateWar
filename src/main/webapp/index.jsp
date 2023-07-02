@@ -6,6 +6,6 @@ String version=resource.getString("version");%>
 <%=version %>
 <html>
 <body>
-<h1>CI CD pipeline concept 02/07/2023 </h1>
+<h1> CI CD pipeline concept 02/07/2023 </h1>
  </body>
 </html>
